@@ -3,7 +3,7 @@
 ##### Type the following commands
 javac Server.java
 java Server.java
-#### Open terminal
+#### Open another terminal
 ##### Type the following commands
 javac Client.java
 java Client.java
