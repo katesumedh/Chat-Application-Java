@@ -15,7 +15,7 @@ java Server
 
 ```bash
 javac Client.java
-java Client.java
+java Client
 ```
 
 ### Screenshot
